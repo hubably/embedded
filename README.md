@@ -1,2 +1,2 @@
 # embedded
-Embedded Linux
+The note of my learning Embedded_System Linux.
